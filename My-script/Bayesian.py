@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Nov 25 21:29:42 2018
-@author: Niveditha G
-"""
-1
+
 import bayespy as bp
 import numpy as np
 import csv
